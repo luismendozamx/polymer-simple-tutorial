@@ -15,5 +15,3 @@ In this tutorial, you build a simple client for `unquote`, the read-only social 
  -   `post-service`. A pre-built element that implements an interface to the `unquote` service. 
  -   `api`. Data for the the `unquote` service.
  -   `images`. Avatar images.
-
-Find a problem in the tutorial? Please open a [Doc bug](https://github.com/Polymer/docs/issues/new) so we can fix it.
